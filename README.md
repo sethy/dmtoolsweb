@@ -1,7 +1,7 @@
 # DM Tools
 
 <p align="center">
-  <img src="dmtools.png" alt="Dungeon Master Tools" width="560" />
+  <img src="assets\dmtools.png" alt="Dungeon Master Tools" width="560" />
 </p>
 
 Browser **all-in-one editor** for **Dungeon Master** and **Chaos Strikes Back** data files:
