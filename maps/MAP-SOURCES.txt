@@ -1,0 +1,44 @@
+﻿csb-amiga-31-35-ml.map	CSB Amiga 3.1 and 3.3 and 3.5 Multilanguage GRAPHICS.DAT.map
+csb-amiga-35-english.map	CSB Amiga 3.5 English GRAPHICS.DAT.map
+csb-amiga-xx-31-english.map	CSB Amiga X.X and 3.1 English GRAPHICS.DAT.map
+csb-atari-st.map	CSB Atari ST 2.0 and 2.1 English GRAPHICS.DAT.map
+csb-fm-towns-english.map	CSB FM-Towns English GRAPHICS.DAT.map
+csb-fm-towns-japanese.map	CSB FM-Towns Japanese GRAPHICS.DAT.map
+csb-pc98.map	CSB PC-98 Japanese GRAPHICS.DAT.map
+csb-x68000.map	CSB X68000 Japanese GRAPHICS.DAT.map
+dm-amiga-20-english.map	DM Amiga 2.0 English GRAPHICS.DAT.map
+dm-amiga-20-fr-ge.map	DM Amiga 2.0 French and 2.0 and 2.2 German GRAPHICS.DAT.map
+dm-amiga-21-22-english.map	DM Amiga 2.1 and 2.2 English GRAPHICS.DAT.map
+dm-amiga-36.map	DM Amiga 3.6 Multilanguage GRAPHICS.DAT.map
+dm-amiga-demo.map	DM Amiga Demo English GRAPHICS.DAT.map
+dm-apple-iigs.map	DM Apple IIGS English GRAPHICS.GAME.map
+dm-apple-iigs-demo.map	DM Apple IIGS English DEMOIIGS.DAT.map
+dm-atari-st.map	DM Atari ST 1.0 and 1.1 and 1.2 English and 1.2 German and 1.3 French GRAPHICS.DAT.map
+dm-atari-st-xx.map	DM Atari ST X.X GRAPHICS.DAT.map
+dm-fm-towns-english.map	DM FM-Towns English GRAPHICS.DAT.map
+dm-fm-towns-japanese.map	DM FM-Towns Japanese GRAPHICS.DAT.map
+dmii-amiga.map	DMII Amiga GRAPHICS.DAT.map
+dmii-fm-towns.map	DMII FM-Towns Japanese GRAPHICS.DAT.map
+dmii-ibm-psv.map	DMII IBM PSV Japanese GRAPHICS.DAT.map
+dmii-mac-demo.map	DMII Macintosh English Demo GRAPHICS.DAT.map
+dmii-mac-english.map	DMII Macintosh English GRAPHICS.DAT.map
+dmii-mac-japanese.map	DMII Macintosh Japanese GRAPHICS.DAT.map
+dmii-pc-09-beta.map	DMII PC 0.9 Beta English GRAPHICS.DAT.map
+dmii-pc9801.map	DMII PC-9801 Japanese GRAPHICS.DAT.map
+dmii-pc9801-demo.map	DMII PC-9801 Japanese Demo GRAPHICS.DAT.map
+dmii-pc9821-r1.map	DMII PC-9821 Japanese Release 1 GRAPHICS.DAT.map
+dmii-pc9821-r2.map	DMII PC-9821 Japanese Release 2 GRAPHICS.DAT.map
+dmii-pc-demo-19950112.map	DMII PC English Demo 19950112 GRAPHICS.DAT.map
+dmii-pc-demo-19950509.map	DMII PC English Demo 19950509 GRAPHICS.DAT.map
+dmii-pc-demo-19950713.map	DMII PC English Demo 19950713 GRAPHICS.DAT.map
+dmii-pc-english.map	DMII PC English GRAPHICS.DAT.map
+dmii-pc-french.map	DMII PC French GRAPHICS.DAT.map
+dmii-pc-german.map	DMII PC German and EnglishJewelCase GRAPHICS.DAT.map
+dmii-sega-cd-english.map	DMII Sega CD English GRAPHICS.DAT.map
+dmii-sega-cd-japanese.map	DMII Sega CD Japanese GRAPHICS.DAT.map
+dm-pc-34-english.map	DM PC 3.4 English GRAPHICS.DAT.map
+dm-pc-34-multilingual.map	DM PC 3.4 Multilanguage GRAPHICS.DAT.map
+dm-pc98-20a.map	DM PC-98 2.0a Japanese GRAPHICS.DAT.map
+dm-pc98-20b.map	DM PC-98 2.0b Japanese GRAPHICS.DAT.map
+dm-pc-song.map	DM PC SONG.DAT.map
+dm-x68000.map	DM X68000 Japanese GRAPHICS.DAT.map
